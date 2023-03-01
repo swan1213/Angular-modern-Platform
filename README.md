@@ -86,7 +86,7 @@ Angular is cross-platform, fast, scalable, has incredible tooling, and is loved 
 
 ## Quickstart
 
-[Get started in 5 minutes][quickstart].
+[Get started in 5 minutes][quickstart]
 
 ## Ecosystem
 
