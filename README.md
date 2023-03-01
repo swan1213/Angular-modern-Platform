@@ -158,4 +158,4 @@ Join the conversation and help the community.
 [stackoverflow]: https://stackoverflow.com/questions/tagged/angular
 [youtube]: https://youtube.com/angular
 [meetup]: https://www.meetup.com/find/?keywords=angular
-[animations]: https://angular.io/guide/animations.
+[animations]: https://angular.io/guide/animations
