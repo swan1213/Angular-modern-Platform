@@ -53,7 +53,7 @@ Get started with Angular, learn the fundamentals and explore advanced topics on 
 - [Server Side Rendering][ssr]
 - [Schematics][schematics]
 - [Lazy Loading][lazyloading]
-- [Animations][animations]
+- [Animations][animations].
 
 ## Development Setup
 
